@@ -4,5 +4,8 @@ Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/sonnerberg/design-2021
-      icon: github
+      icon: fab fa-github
+    - title: Link till LinkedIn.
+      url: https://www.linkedin.com/in/richard-s%C3%B6nnerberg-74192090/ 
+      icon: fab fa-linkedin
 ---

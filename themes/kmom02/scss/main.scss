@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.main-content-wrapper {
+    margin-inline-end: 0.5em;
+    margin-inline-start: 0.5em;
+    max-width: 550px;
+
+    > h1 {
+        text-align: center;
+    }
+
+    > p,
+    > ul {
+        line-height: 2em;
+    }
+
+    > p:first-of-type {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+}
+
+.main-content-wrapper img {
+    border-radius: 50%;
+    max-width: 50%;
+}

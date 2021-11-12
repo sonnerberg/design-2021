@@ -1,0 +1,10 @@
+footer {
+    margin-block: 2em;
+
+    > .social {
+        display: flex;
+        justify-content: center;
+        gap: 2em;
+        transform: scale(3);
+    }
+}

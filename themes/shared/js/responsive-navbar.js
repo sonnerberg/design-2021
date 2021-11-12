@@ -73,4 +73,4 @@ function main()
     onResizeEvent();
 }
 
-main();
+// main();
